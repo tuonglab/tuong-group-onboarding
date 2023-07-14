@@ -20,7 +20,7 @@ repo_name/
 
 ## Please also check out the following repos:
 
-(https://github.com/tuonglab/bunya-ssh-setup)
+https://github.com/tuonglab/bunya-ssh-setup
 
 https://github.com/tuonglab/ktbunya
 
