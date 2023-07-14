@@ -4,6 +4,8 @@ This directory contains scripts used in the projects that are not necessarily no
 
 For example, you might have a script that runs a program that you wrote in another language, or a script that downloads data from a database. You call these scripts from the notebooks and this is where you store them.
 
+Please delete this section and replace it with your own if you are using this template.
+
 ## File information
 
 It would be good to annotate here what each script means. For example, if you have a script called `download_data.py`, you can write a short description of what it is here.

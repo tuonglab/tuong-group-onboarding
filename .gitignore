@@ -161,5 +161,4 @@ cython_debug/
 
 *.DS_Store
 *.ipynb_checkpoints
-write/
-figures/
+
